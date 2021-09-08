@@ -8,9 +8,7 @@ Dataset : http://ai.stanford.edu/~acoates/stl10/stl10_binary.tar.gz
 # RUN
 
 * Download Data
-  * run utils/down_data.py
   * python3 down_data.py
 
 * Do train
-  * run train.py
   * python3 train.py
